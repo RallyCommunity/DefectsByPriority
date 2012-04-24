@@ -1,0 +1,9 @@
+{
+    "name": "Defects By Priority",
+    "className": "CustomApp",
+    "sdk": "2.0p",
+    "javascript": [
+        "App.js"
+    ],
+    "css": [ ]
+}
