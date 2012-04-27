@@ -10,4 +10,4 @@ For more information on Rally apps and the App SDK, see https://rally1.rallydev.
 
 ## License
 
-DefectsByPriority is released under the MIT license.  See the file LICENSING for the full text.
+DefectsByPriority is released under the MIT license.  See the file LICENSE for the full text.
