@@ -1,5 +1,3 @@
-// Copyright (c) 2002-2012  Rally Software Development Corp. All rights reserved.
-
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
     componentCls: 'app',

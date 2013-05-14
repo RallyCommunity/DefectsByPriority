@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DefectsByPriority</title>
+
+
+    <script type="text/javascript" src="https://rally1.rallydev.com/apps/2.0p5/sdk-debug.js"></script>
+
+    <script type="text/javascript">
+        // I am keeping the extra , in there to simplify my code. If someone is actually using an old version of IE to make an app let me know.
+        Rally.loadScripts(
+                [
+                      "App.js",
+                ],
+        function() {
+            Rally.launchApp('CustomApp', {
+                name:"DefectsByPriority"
+            });
+        }, true);
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="app.css">
+</head>
+<body></body>
+</html>

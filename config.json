@@ -1,9 +1,12 @@
 {
-    "name": "Defects By Priority",
+    "name": "DefectsByPriority",
     "className": "CustomApp",
-    "sdk": "2.0p",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "2.0p5",
     "javascript": [
         "App.js"
     ],
-    "css": [ ]
+    "css": [
+        "app.css"
+    ]
 }
